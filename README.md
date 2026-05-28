@@ -102,5 +102,5 @@ Este glossário aborda os conteúdos estudados e organizados por categoria: prin
 
 [Apresentação FII'S.pdf](https://github.com/user-attachments/files/28331815/Apresentacao.FII.S.pdf)
 [FII_Strategy_Blueprint.pdf](https://github.com/user-attachments/files/28332019/FII_Strategy_Blueprint.pdf)
-<img width="3876" height="7137" alt="Mapa mental" src="https://github.com/user-attachments/assets/398f0a1e-aca2-434d-b93c-e9e4f08a7d01" />
+
 
