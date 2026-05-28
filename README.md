@@ -63,3 +63,43 @@ Longo Prazo: O investimento deve ser encarado com foco em anos, não meses, para
 Reinvestimento: O segredo para o crescimento do patrimônio é utilizar os dividendos recebidos para comprar novas cotas, criando um efeito de juros compostos.
 Diversificação: Recomenda-se ter entre 5 e 15 fundos de diferentes segmentos para reduzir o risco.
 Controle Emocional: O investidor deve evitar o "gira-gira" (comprar e vender excessivamente por notícias ou medo) e o estresse do "pisca-pisca" (olhar a cotação o tempo todo).
+
+
+**Glossário**
+
+Este glossário aborda os conteúdos estudados e organizados por categoria: principais conceitos, tipos, vantagens e riscos.
+
+
+### 1. Conceitos Básicos e Estrutura
+*   **Fundo de Investimento Imobiliário (FII):** É uma **comunhão de recursos** de vários investidores destinados à aplicação em ativos do setor imobiliário. Funciona como um "condomínio fechado", onde o dinheiro coletado é usado para comprar ou construir imóveis e títulos ligados ao setor.
+*   **Cota:** É a menor "fatia" ou pedaço de um fundo. Ao comprar uma cota, você se torna dono de uma parte proporcional de todos os imóveis ou ativos que o fundo possui.
+*   **Cotista:** É o nome dado ao investidor que possui cotas do fundo.
+*   **Administrador:** É a instituição financeira responsável pelo funcionamento legal do fundo, pela prestação de informações aos cotistas e à CVM, e pela guarda dos documentos.
+*   **Gestor:** É o especialista que decide quais ativos serão comprados ou vendidos pelo fundo, buscando a melhor rentabilidade para os investidores.
+
+### 2. Tipos de Fundos (Classificação)
+*   **Fundo de Tijolo:** Fundos que investem em **imóveis físicos reais**, como prédios de escritórios (lajes corporativas), shoppings, galpões logísticos, hospitais e hotéis. O ganho vem do aluguel e da valorização do imóvel.
+*   **Fundo de Papel:** Fundos que não possuem imóveis físicos, mas investem em **títulos de dívida** ligados ao setor imobiliário, como CRI, LCI e Letras Hipotecárias. Funcionam como se o fundo estivesse "emprestando" dinheiro para financiar construções e recebendo juros em troca.
+*   **Fundo de Fundos (FOF):** Um fundo que compra cotas de outros fundos imobiliários. É uma forma simples de diversificar vários segmentos com um único investimento.
+*   **Fundo Híbrido:** Fundos que misturam em sua carteira tanto imóveis físicos quanto títulos de papel.
+
+### 3. Rendimentos e Indicadores
+*   **Dividendos (Rendimentos):** É a parcela do lucro do fundo (geralmente vinda dos aluguéis) distribuída mensalmente aos cotistas. Por lei, os FIIs devem distribuir no mínimo **95% do lucro líquido** apurado em balanço semestral.
+*   **Dividend Yield (DY):** Indicador que mostra o percentual de rendimento pago em relação ao preço da cota. Ajuda o investidor a entender quanto ele está ganhando de "aluguel" proporcionalmente ao que pagou.
+*   **P/VP (Preço sobre Valor Patrimonial):** Indicador usado para saber se uma cota está barata ou cara. Um P/VP igual a 1 indica preço justo; abaixo de 1 indica que está com desconto; acima de 1 indica que está mais cara que o valor real dos ativos.
+*   **Vacância:** Representa o percentual de espaço dos imóveis do fundo que está **vazio**, ou seja, sem inquilino gerando aluguel.
+
+### 4. Mercado e Operacional
+*   **B3:** É a Bolsa de Valores do Brasil, o local onde as cotas dos FIIs são negociadas entre os investidores.
+*   **Ticker:** É o código (sigla) usado para identificar o fundo na bolsa, geralmente composto por 4 letras e o número 11 (ex: MXRF11).
+*   **Liquidez:** Refere-se à facilidade e velocidade com que você consegue transformar suas cotas em dinheiro (vender) no mercado.
+*   **DARF:** Documento de Arrecadação de Receitas Federais. É o "boleto" que o investidor deve gerar e pagar caso venda suas cotas com lucro, já que esse ganho de capital é tributado em **20% de imposto**. Importante: os dividendos mensais para pessoas físicas costumam ser isentos de IR.
+*   **IFIX:** Índice que acompanha o desempenho médio dos principais fundos imobiliários do mercado brasileiro.
+
+
+
+📌**Materiais para fixar o conteúdo**
+
+[Apresentação FII'S.pdf](https://github.com/user-attachments/files/28331815/Apresentacao.FII.S.pdf)
+<img width="3876" height="7137" alt="Mapa mental" src="https://github.com/user-attachments/assets/8cce5ac8-b581-403f-adfe-08fb89217098" />
+
