@@ -101,6 +101,9 @@ Este glossário aborda os conteúdos estudados e organizados por categoria: prin
 📌**Materiais para fixar o conteúdo**
 
 [Apresentação FII'S.pdf](https://github.com/user-attachments/files/28331815/Apresentacao.FII.S.pdf)
+
 [FII_Strategy_Blueprint.pdf](https://github.com/user-attachments/files/28332019/FII_Strategy_Blueprint.pdf)
+
+
 
 
