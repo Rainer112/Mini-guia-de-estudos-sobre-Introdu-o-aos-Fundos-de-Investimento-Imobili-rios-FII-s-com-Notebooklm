@@ -65,7 +65,7 @@ Diversificação: Recomenda-se ter entre 5 e 15 fundos de diferentes segmentos p
 Controle Emocional: O investidor deve evitar o "gira-gira" (comprar e vender excessivamente por notícias ou medo) e o estresse do "pisca-pisca" (olhar a cotação o tempo todo).
 
 
-**Glossário**
+###**Glossário**
 
 Este glossário aborda os conteúdos estudados e organizados por categoria: principais conceitos, tipos, vantagens e riscos.
 
