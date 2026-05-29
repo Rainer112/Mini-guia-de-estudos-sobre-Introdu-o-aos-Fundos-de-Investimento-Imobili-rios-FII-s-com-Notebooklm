@@ -1,12 +1,12 @@
-### Mini guia de estudos sobre Introdução aos Fundos de Investimento Imobiliários - FII's - com Notebooklm
+## Mini guia de estudos sobre Introdução aos Fundos de Investimento Imobiliários - FII's - com Notebooklm
 Repositório desenvolvido como desafio de projeto acadêmico.
 
 
-### 🧠 **Objetivo:** 
+## 🧠 **Objetivo:** 
 Entender o funcionamento e analisar oportunidades para geração de renda passiva com FII's. O conteúdo será abordado de forma didática e objetiva para facilitar o entendimento.
 
 
-### 🔍📚 **Curadoria de fontes:**
+## 🔍📚 **Curadoria de fontes:**
 
 "https://www.youtube.com/watch?v=z3fTzc0q10M";
 "https://www.youtube.com/watch?v=GC8vbvUmXOA";
@@ -15,7 +15,7 @@ Entender o funcionamento e analisar oportunidades para geração de renda passiv
 Livro: "Introdução aos Fundos de Investimento Imobiliário - Autor -> André Luís Ferreira da Silva Bacci (2014)".
 
 
-### **Prompts utilizados:**
+## **Prompts utilizados:**
 
 O objetivo é gerar um conjunto de perguntas que guiem um usuário com pouco ou nenhum conhecimento prévio sobre FIIs a entenderem os conceitos fundamentais, os benefícios, os riscos e como começar a investir. Com perguntas claras, objetivas e destinadas a instigar a curiosidade e o aprendizado.
 
@@ -91,48 +91,54 @@ Observação Importante: Diferente da poupança e de alguns CDBs, os FIIs são a
 ***3. Quais são os riscos mais comuns ao investir em FIIs e como um iniciante pode se proteger deles?***
 
 Investir em Fundos de Investimento Imobiliário (FIIs) envolve diversos riscos, muitos deles semelhantes aos do mercado imobiliário tradicional, mas potencializados pela dinâmica da Bolsa de Valores. Abaixo, detalho os riscos mais comuns e as estratégias recomendadas pelas fontes para proteção.
-Riscos mais comuns nos FIIs
-. Risco de Vacância: É a possibilidade de os imóveis do fundo ficarem vazios.
+
+* 3.1 Riscos mais comuns nos FIIs
+
+ 3.1.1 Risco de Vacância: É a possibilidade de os imóveis do fundo ficarem vazios.
 Se não houver inquilino, não há recebimento de aluguel e os dividendos distribuídos aos cotistas diminuem ou cessam.
 
-Risco de Inadimplência: Ocorre quando o inquilino ocupa o imóvel, mas não paga o aluguel ("calote") devido a dificuldades financeiras ou crises econômicas.
+ 3.1.2 Risco de Inadimplência: Ocorre quando o inquilino ocupa o imóvel, mas não paga o aluguel ("calote") devido a dificuldades financeiras ou crises econômicas.
 
-Risco de Mercado e Volatilidade: Como são ativos de renda variável, o preço das cotas oscila diariamente na B3 conforme a oferta e a demanda
+ 3.1.3 Risco de Mercado e Volatilidade: Como são ativos de renda variável, o preço das cotas oscila diariamente na B3 conforme a oferta e a demanda
 . Fatores políticos, econômicos ou guerras podem afetar negativamente os preços
 
-Risco de Juros: Existe uma forte correlação entre a taxa SELIC e os FIIs
+ 3.1.4 Risco de Juros: Existe uma forte correlação entre a taxa SELIC e os FIIs
 . Quando os juros sobem, os investidores tendem a migrar para a renda fixa, o que faz o valor das cotas dos FIIs cair.
 
-Risco de Concentração: Investir em fundos que possuem apenas um imóvel (mono-imóvel) ou um único inquilino (mono-inquilino) aumenta o perigo, pois qualquer problema com esse ativo específico impacta 100% do rendimento.
+ 3.1.5 Risco de Concentração: Investir em fundos que possuem apenas um imóvel (mono-imóvel) ou um único inquilino (mono-inquilino) aumenta o perigo, pois qualquer problema com esse ativo específico impacta 100% do rendimento.
 
-Risco de Liquidez: A dificuldade de vender as cotas rapidamente pelo preço desejado, especialmente em fundos menos populares ou com poucos negócios
+ 3.1.6 Risco de Liquidez: A dificuldade de vender as cotas rapidamente pelo preço desejado, especialmente em fundos menos populares ou com poucos negócios
 
-Risco de "Comprar Vento": Em fundos de prazo determinado que estão em fase de desinvestimento, o fundo pode pagar rendimentos altos enquanto devolve o capital, mas o valor real do patrimônio está acabando. Investidores desatentos podem pagar caro por algo que valerá pouco no final.
+ 3.1.7 Risco de "Comprar Vento": Em fundos de prazo determinado que estão em fase de desinvestimento, o fundo pode pagar rendimentos altos enquanto devolve o capital, mas o valor real do patrimônio está acabando. Investidores desatentos podem pagar caro por algo que valerá pouco no final.
 
-Riscos Emocionais ("Pisca-pisca" e "Gira-gira"): A facilidade de ver o preço mudando a cada segundo pode causar angústia e levar o investidor a vender na baixa por medo ou comprar na alta por euforia, gerando prejuízos
+ 3.1.8 Riscos Emocionais ("Pisca-pisca" e "Gira-gira"): A facilidade de ver o preço mudando a cada segundo pode causar angústia e levar o investidor a vender na baixa por medo ou comprar na alta por euforia, gerando prejuízos
 
-Como um iniciante pode se proteger
-Diversificação é a Regra de Ouro: A forma mais eficiente de reduzir riscos é não colocar todo o dinheiro em um único fundo
-. Recomenda-se ter entre 5 e 15 FIIs de diferentes setores (shoppings, galpões, papel, hospitais) e gestoras.
+* 3.2 Como um iniciante pode se proteger
+  
+Diversificação é a Regra de Ouro: A forma mais eficiente de reduzir riscos é não colocar todo o dinheiro em um único fundo.
 
-Foco no Longo Prazo: O investimento deve ser encarado como a compra de um imóvel real, pensando em anos e não em meses.
-. Evitar o "giro" excessivo da carteira protege contra custos de corretagem e erros emocionais.
+3.2.1 Recomenda-se ter entre 5 e 15 FIIs de diferentes setores (shoppings, galpões, papel, hospitais) e gestoras.
 
-Análise de Indicadores: Antes de comprar, o iniciante deve observar indicadores como a Vacância (idealmente abaixo de 10%), o P/VP (para não pagar caro demais) e o Dividend Yield (rendimento em relação ao preço).
+3.2.2 Foco no Longo Prazo: O investimento deve ser encarado como a compra de um imóvel real, pensando em anos e não em meses.
 
-Atenção ao Regulamento e Prospecto: É fundamental ler esses documentos para entender a política de investimento, os riscos específicos daquele fundo e se ele tem prazo determinado para acabar.
+*3.2.3 Evitar o "giro" excessivo da carteira protege contra custos de corretagem e erros emocionais.
 
-Começar Pequeno: Uma recomendação prática é iniciar com valores baixos (como R10ouR 100) para testar a plataforma e ganhar confiança antes de aplicar quantias maiores.
+3.2.4 Análise de Indicadores: Antes de comprar, o iniciante deve observar indicadores como a Vacância (idealmente abaixo de 10%), o P/VP (para não pagar caro demais) e o Dividend Yield (rendimento em relação ao preço).
 
-Reinvestir os Dividendos: Utilizar os rendimentos mensais para comprar novas cotas acelera o crescimento do patrimônio através do efeito dos juros compostos.
+3.2.5 Atenção ao Regulamento e Prospecto: É fundamental ler esses documentos para entender a política de investimento, os riscos específicos daquele fundo e se ele tem prazo determinado para acabar.
 
-Evitar IPOs no Início: As Ofertas Públicas Iniciais podem ter informações difíceis de digerir para quem está começando. É preferível focar em fundos que já têm histórico operacional na bolsa.
+3.2.6 Começar Pequeno: Uma recomendação prática é iniciar com valores baixos (como R10ouR 100) para testar a plataforma e ganhar confiança antes de aplicar quantias maiores.
 
-Manter Controle Fiscal: Anotar todas as operações e o Imposto de Renda Retido na Fonte (IRRF) evita problemas com a Receita Federal (malha fina), especialmente se houver vendas com lucro.
+*3.2.7 Reinvestir os Dividendos: Utilizar os rendimentos mensais para comprar novas cotas acelera o crescimento do patrimônio através do efeito dos juros compostos.
+
+*3.2.8 Evitar IPOs no Início: As Ofertas Públicas Iniciais podem ter informações difíceis de digerir para quem está começando. É preferível focar em fundos que já têm histórico operacional na bolsa.
+
+3.2.9 Manter Controle Fiscal: Anotar todas as operações e o Imposto de Renda Retido na Fonte (IRRF) evita problemas com a Receita Federal (malha fina), especialmente se houver vendas com lucro.
 
 
 
-### 📋 **Resumo:** 
+
+## 📋 **Resumo:** 
 
 Este resumo estruturado apresenta os principais conceitos, tipos, vantagens, riscos e estratégias dos Fundos de Investimento Imobiliário (FIIs) com base no material fornecido.
 
@@ -187,7 +193,7 @@ Diversificação: Recomenda-se ter entre 5 e 15 fundos de diferentes segmentos p
 Controle Emocional: O investidor deve evitar o "gira-gira" (comprar e vender excessivamente por notícias ou medo) e o estresse do "pisca-pisca" (olhar a cotação o tempo todo).
 
 
-## **Glossário**
+## 🔤 **Glossário**
 
 Este glossário aborda os conteúdos estudados e organizados por categoria: principais conceitos, tipos, vantagens e riscos.
 
@@ -220,7 +226,7 @@ Este glossário aborda os conteúdos estudados e organizados por categoria: prin
 
 
 
-### 📌**Materiais de fixação**
+## 📌**Materiais de fixação**
 
 
 [Apresentação FII'S.pdf](https://github.com/user-attachments/files/28331815/Apresentacao.FII.S.pdf)
@@ -229,4 +235,16 @@ Este glossário aborda os conteúdos estudados e organizados por categoria: prin
 
 <img width="3876" height="7137" alt="Mapa mental" src="https://github.com/user-attachments/assets/49a339a7-14d3-4dd8-85f7-5b160de034e4" />
 
+
+## ♻️ **Prompts reutilizáveis**
+
+* **Definição**: *"O que são FIIs ?"* *"Como os FII's funcionam de maneira simples?"* *"Como um iniciante pode entender termos como "dividendos", "vacância" e "NAV" no contexto de FIIs?"*
+
+* **Benefícios:** *"Vantagens de investir em FIIs em comparação com outras aplicações. "Quais são os principais benefícios de investir em FIIs para quem está começando a investir?"*
+
+* **Riscos:** *"Quais são os principais riscos envolvidos, como mitigá-los?"* *"Quais são os riscos mais comuns ao investir em FIIs e como um iniciante pode se proteger deles?"*
+
+* **Como começar:** *"Quais são os passos práticos para quem quer investir pela primeira vez?"* *"Se eu quiser começar a investir em FIIs, quais são os primeiros passos práticos que devo seguir?"*
+
+* **Análise:** "*O que observar ao analisar um FII?"*
 
