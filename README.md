@@ -2,7 +2,7 @@
 Repositório desenvolvido como desafio de projeto acadêmico.
 
 
-## 🧠 **Objetivo:** 
+## 🎯 **Objetivo:** 
 Entender o funcionamento e analisar oportunidades para geração de renda passiva com FII's. O conteúdo será abordado de forma didática e objetiva para facilitar o entendimento.
 
 
